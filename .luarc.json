@@ -1,0 +1,21 @@
+{
+  "diagnostics.globals": [
+    "data",
+    "tune_up_data",
+    "settings",
+    "storage",
+    "game",
+    "mods",
+    "defines",
+    "rendering",
+    "script",
+    "prototypes",
+    "weight",
+    "minute",
+    "second",
+    "pipecoverspictures",
+    "kg",
+    "util"
+  ],
+  "diagnostics.disable": ["undefined-field"]
+}

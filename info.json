@@ -1,0 +1,10 @@
+{
+    "name": "pf-beacon-rework",
+    "version": "1.0.0",
+    "title": "Wow! It's Yet Another Beacon Rebalancing Mod",
+    "author": "planetfall",
+    "homepage": "",
+    "description": "Makes beacons worse.",
+    "factorio_version": "2.1",
+    "dependencies": ["base >= 2.1", "pf-functions", "? space-age", "? quality", "? tuner-upper"]
+}
